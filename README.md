@@ -22,5 +22,6 @@ compile 'com.github.chrisbanes.photoview:library:1.2.4'
 单击，长按都有回调提醒
 
 
-JessYanCoding  github
-
+我一行代码都不写实现Toolbar!你却还在封装BaseActivity?
+http://www.jianshu.com/p/75a5c24174b2
+GitHub: https://github.com/JessYanCoding
