@@ -22,3 +22,5 @@ compile 'com.github.chrisbanes.photoview:library:1.2.4'
 单击，长按都有回调提醒
 
 
+JessYanCoding  github
+
