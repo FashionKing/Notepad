@@ -29,3 +29,5 @@ GitHub: https://github.com/JessYanCoding
 
 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS。 
 https://github.com/jpush/aurora-imui
+
+https://github.com/qibin0506亓斌
