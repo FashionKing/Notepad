@@ -25,3 +25,7 @@ compile 'com.github.chrisbanes.photoview:library:1.2.4'
 我一行代码都不写实现Toolbar!你却还在封装BaseActivity?
 http://www.jianshu.com/p/75a5c24174b2
 GitHub: https://github.com/JessYanCoding
+
+
+通用 IM 聊天 UI 组件，已经同时支持 Android/iOS。 
+https://github.com/jpush/aurora-imui
