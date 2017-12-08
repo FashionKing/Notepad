@@ -1,5 +1,7 @@
 # Notepad
 # 一点笔记
+https://github.com/singwhatiwanna
+
 
 compile 'pub.devrel:easypermissions:0.3.0'
 Easypermissions主要简化了对权限申请结果的处理和判断，直接以接口的方式回调处理结果。不需要再自行进行处理。
