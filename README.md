@@ -4,7 +4,10 @@ https://github.com/singwhatiwanna
 
 
 compile 'pub.devrel:easypermissions:0.3.0'
-Easypermissions主要简化了对权限申请结果的处理和判断，直接以接口的方式回调处理结果。不需要再自行进行处理。
+Easypermissions主要简化了对权限申请结果的处理和判断，直接以接口的方式回调处理结果。不需要再自行进行处理
+
+Android开发者网址导航
+https://www.jianshu.com/p/54902270249d
 
 compile 'com.belerweb:pinyin4j:2.5.1'
 是一个可以将汉字转换成拼音的lib，非常实用
