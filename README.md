@@ -1,4 +1,7 @@
 # Notepad
+
+search fast  OR  view
+
 # 一点笔记
 https://github.com/singwhatiwanna
 
